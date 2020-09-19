@@ -1,4 +1,8 @@
 ### Hi there 👋
+Välkommen till min profil. Jag heter **Daniela Forsberg** och jag läser andra året på Webbutvecklingsprogrammet på Mittuniversitet. 
+
+📫 dafo1900@student.miun.se
+
 
 <!--
 **dannisen/dannisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
